@@ -1,5 +1,5 @@
 *.swp
-config.js
+privateconfig.js
 node_modules/**
 npm-debug.log
 
