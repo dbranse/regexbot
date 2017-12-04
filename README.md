@@ -1,6 +1,15 @@
 `regexbot`: slackbot with configurable regexes
 ==============================================
 
+Bot Contributions
+-----
+beep_boop: add new regex's in src/config.js
+
+
+
+Default Info
+-----
+
 [![Build Status](https://travis-ci.org/sjmelia/regexbot.svg)](https://travis-ci.org/sjmelia/regexbot)
 
 Simple slackbot for responding to messages matching a regex.
